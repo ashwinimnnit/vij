@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![](http://i.imgur.com/DUiL9yn.png)
 
 # React/Sass/Redux Boilerplate
@@ -66,3 +67,6 @@ Rendered graphs are scrollable, zoomable, retina ready, dynamic, and switch layo
 
     React.render(<Graph graph={data}/>, document.body);
 >>>>>>> 437c01a961bbc42c2baeb469d56235dff546c4b8
+=======
+# vij
+>>>>>>> 8691beb86c5cec6d374f50a2ec1d8f7216d02105
