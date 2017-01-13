@@ -61,7 +61,7 @@
     "babel-plugin-react-transform": "^2.0.2",
     "babel-preset-stage-0": "^6.5.0",
     "json-loader": "^0.5.4",
-    "react-transform-hmr": "^1.0.4"
+    "react-transform-hmr": "^1.0.4",
   "author": "Vincent Lecrubier <vincent.lecrubier@gmail.com> (http://www.vincentlecrubier.fr/)",
   "license": "MIT",
   "dependencies": {
