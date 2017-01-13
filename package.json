@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack",
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server",
   "name": "react-graph-vis",
   "version": "0.0.3",
   "description": "A react component to render nice graphs using vis.js",
