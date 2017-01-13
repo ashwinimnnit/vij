@@ -1,12 +1,10 @@
 {
-<<<<<<< HEAD
   "name": "react-redux-template",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "dev": "webpack",
     "start": "webpack-dev-server"
-=======
   "name": "react-graph-vis",
   "version": "0.0.3",
   "description": "A react component to render nice graphs using vis.js",
@@ -17,7 +15,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/crubier/react-graph-vis.git"
->>>>>>> 437c01a961bbc42c2baeb469d56235dff546c4b8
   },
   "keywords": [
     "react-component",
@@ -26,7 +23,6 @@
     "network",
     "jsx"
   ],
-<<<<<<< HEAD
   "repository": {
     "type": "git",
     "url": "https://github.com/crubier/react-graph-vis.git"
@@ -66,13 +62,11 @@
     "babel-preset-stage-0": "^6.5.0",
     "json-loader": "^0.5.4",
     "react-transform-hmr": "^1.0.4"
-=======
   "author": "Vincent Lecrubier <vincent.lecrubier@gmail.com> (http://www.vincentlecrubier.fr/)",
   "license": "MIT",
   "dependencies": {
     "react": "^15.3.0",
     "uuid": "^2.0.1",
     "vis": "^3.12.0"
->>>>>>> 437c01a961bbc42c2baeb469d56235dff546c4b8
   }
 }
